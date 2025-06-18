@@ -1,0 +1,31 @@
+ID;Nome;Código do Funcionário;Cargo;Setor;Salário;Dt. admissão;Contrato;Status;Abaixo de Salário Mínimo?;Nota da Avaliação;Feedback da Avaliação;Pronto para Promoção?
+1;Ana Beatriz Costa;ANA001;Assistente RH;RH;R$ 1.680,00;05/01/2023;CLT;Ativo;Não;9;Excelente desempenho;Não
+2;Bruno Silva Mendes;BRU002;Analista Financeiro;Financeiro;R$ 3.100,00;20/03/2022;CLT;Ativo;Não;7;Regular, pode melhorar;Não
+3;Carla Nunes Ferreira;CAR003;Estagiária;Marketing;R$ 900,00;14/08/2024;Estágio;Desligado;Sim;6;Baixo rendimento;Não
+4;Daniel Souza Rocha;DAN004;Desenvolvedor Jr.;TI;R$ 2.500,00;10/11/2021;CLT;Ativo;Não;8;Boa participação;Sim
+5;Elisa Martins Lima;ELI005;Coordenadora RH;RH;R$ 4.800,00;01/02/2020;CLT;Ativo;Não;9;Liderança exemplar;Sim
+6;Felipe Alves Duarte;FEL006;Auxiliar Administrativo;Administrativo;R$ 1.300,00;17/04/2023;CLT;Ativo;Sim;5;Erros frequentes;Não
+7;Giovana Reis Teixeira;GIO007;Designer Gráfico;Marketing;R$ 2.100,00;25/06/2022;PJ;Desligado;Não;6;Pouca colaboração;Não
+8;Henrique Tavares Luz;HEN008;Técnico de Suporte;TI;R$ 1.450,00;03/05/2023;CLT;Ativo;Não;7;Técnico eficiente;Não
+9;Isabela Cunha Prado;ISA009;Analista de Dados;TI;R$ 3.700,00;09/09/2022;CLT;Desligado;Não;10;Destaque em projetos;Sim
+10;João Pedro Santana;JOÃ010;Estagiário;RH;R$ 950,00;12/01/2024;Estágio;Desligado;Sim;8;Cumpre metas com excelência;Não
+;;;;Salário Total;R$ 22.480,00;;;;;;;
+;;;;;;;;;;;;
+;Resumo;;;;Contrato;Contagem de Nome;;Setor;Média de Salário;;;
+;Total Funcionários;10;;;CLT;7;;Administrativo;R$ 1.300,00;;;
+;Total Ativos;6;;;Estágio;2;;Financeiro;R$ 3.100,00;;;
+;Total Estágio;2;;;PJ;1;;Marketing;R$ 1.500,00;;;
+;Total  CLT;6;;;Total Geral;10;;RH;R$ 2.476,67;;;
+;Total PJ;1;;;;;;TI;R$ 2.550,00;;;
+;Média Salarial;R$ 2.248,00;;;;;;Total Geral;R$ 2.248,00;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
