@@ -26,5 +26,5 @@ Este projeto foi desenvolvido para praticar habilidades de **Excel Básico e Int
 1. Clone o repositório:
    
    ```bash
-   git clone https://github.com/mzayles/base_rh-excel.git
+   git clone https://github.com/mzayles/base_rh.git
    ```
