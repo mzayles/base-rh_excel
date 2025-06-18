@@ -1,0 +1,4 @@
+*.csv linguist-detectable=true
+*.xlsx linguist-detectable=false
+*.png linguist-detectable=false
+*.md linguist-detectable=false
